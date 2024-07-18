@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="sim4da-v2">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/resources/sim4da-v2.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
